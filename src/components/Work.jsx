@@ -40,9 +40,8 @@ const Work = () => {
                                 BluBlod Application
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://www.blublod.com/" target="_blank" rel="noopener noreferrer">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Demo</button>
-                                </a>
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white'>Demo</button>
+                                
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white '>Code</button>
                             </div>
                         </div>
