@@ -21,7 +21,6 @@ const About = () => {
                             Développeur depuis environ 3 ans, je suis spécialisé en JavaScript et plus précisement la stack MERN. 
                             J'aime coder des trucs, autant pour des Start-Ups que sur des gros projets. 
                             Actuellement en poste en tant qu'ingénieur logiciel chez Cap Gemini, je travaille également sur le projet personnel <a href='https://www.linkedin.com/company/appspot'>SPOT</a>  
-                            <br></br>N'hésitez pas à me contacter afin d'échanger sur un projet ou simplement pour boire un café.
                         </p>
                     </div>
                 </div>
