@@ -15,7 +15,14 @@ const About = () => {
                         <p>Bonjour, moi c'est Kevin, enchanté. N'hesitez pas à vous balader.</p>
                     </div>
                     <div>
-                        <p>Après une quinzaine d'années dans la gestion de portefeuilles et le management, j'ai décidé de m'éclater dans ma vie professionnelle. Développeur depuis environ 2 ans, je suis spécialisé en JavaScript et plus précisement la stack MERN. J'aime coder des trucs, autant pour des Start-Up que pour des grosses structures. Mon but est de vous apporter la solution la plus adaptée à vos besoins dans un délai optimal. N'hésitez pas à me contacter afin d'échanger sur votre projet ou simplement pour boire un café.</p>
+                        <p>
+                            Après une quinzaine d'années dans la gestion de portefeuilles et le management, 
+                            j'ai décidé de m'éclater dans ma vie professionnelle. 
+                            Développeur depuis environ 3 ans, je suis spécialisé en JavaScript et plus précisement la stack MERN. 
+                            J'aime coder des trucs, autant pour des Start-Ups que sur des gros projets. 
+                            Actuellement en poste en tant qu'ingénieur logiciel chez Cap Gemini, je travaille également sur le projet personnel <a href='https://www.linkedin.com/company/appspot'>SPOT</a>  
+                            <br></br>N'hésitez pas à me contacter afin d'échanger sur un projet ou simplement pour boire un café.
+                        </p>
                     </div>
                 </div>
             </div>
